@@ -30,4 +30,4 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
 
-![screenshot.](Develop\assets\images\Screenshot 2023-02-25 174529.png)
+![Horiseon Social Services screenshot of webpage](Develop\assets\images\Screenshot.jpg)
