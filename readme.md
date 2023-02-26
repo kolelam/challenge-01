@@ -29,5 +29,5 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
-Screenshot below
-./assets/Screenshot 2023-02-25 174529.png
+
+![screenshot.](Develop\assets\images\Screenshot 2023-02-25 174529.png)
